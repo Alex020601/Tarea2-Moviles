@@ -1,0 +1,7 @@
+# Compilados / artefactos
+*.class
+*.jar
+*.log
+
+# VS Code
+.vscode/
